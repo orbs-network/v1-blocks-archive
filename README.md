@@ -9,3 +9,5 @@ Archive of Orbs V1 network virtual chain blocks (like V1 Elections chain)
 * vchain 1960000 backup: https://k00.fr/lva81uem
 
 The files are available on [Koofr](https://deals.venturebeat.com/sales/koofr-cloud-storage-plans-lifetime-subscription-1tb) lifetime subscription (paid).
+
+The files can be parsed vchain core (orbs-network-go V1) or https://github.com/orbs-network/block-stats-parser
